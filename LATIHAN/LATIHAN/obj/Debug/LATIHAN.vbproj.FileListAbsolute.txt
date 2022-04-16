@@ -1,0 +1,27 @@
+c:\users\asus\documents\visual studio 2012\Projects\LATIHAN\LATIHAN\bin\Debug\LATIHAN.exe.config
+c:\users\asus\documents\visual studio 2012\Projects\LATIHAN\LATIHAN\bin\Debug\LATIHAN.exe
+c:\users\asus\documents\visual studio 2012\Projects\LATIHAN\LATIHAN\bin\Debug\LATIHAN.pdb
+c:\users\asus\documents\visual studio 2012\Projects\LATIHAN\LATIHAN\bin\Debug\LATIHAN.xml
+c:\users\asus\documents\visual studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_MENU.resources
+c:\users\asus\documents\visual studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_LOGIN.resources
+c:\users\asus\documents\visual studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.Resources.resources
+c:\users\asus\documents\visual studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.exe
+c:\users\asus\documents\visual studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.xml
+c:\users\asus\documents\visual studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_KARYAWAN.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_LAPORAN.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_TENTANG.resources
+C:\Users\ASUS\documents\visual studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_KONEKSI.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_DATA_MENU.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.TRANSAKSI.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_PREVIEW.resources
+D:\COPI\LATIHAN\bin\Debug\LATIHAN.exe.config
+D:\COPI\LATIHAN\obj\Debug\LATIHAN.exe
+D:\COPI\LATIHAN\obj\Debug\LATIHAN.xml
+D:\COPI\LATIHAN\obj\Debug\LATIHAN.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_PENGATURAN.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_ADMIN.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.fr_hakAkses.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.Fr_trAdmin.resources
